@@ -96,6 +96,10 @@ Jupyter/Colab | CSV exports | Heapq | Priority Queue
 
 ***
 
+## **Visualisation **
+<img width="751" height="687" alt="Screenshot 2026-06-03 093903" src="https://github.com/user-attachments/assets/cd7d535c-4a3e-44e5-af16-ed856ced9f32" />
+
+
 ## **Author**
 **Ganesh Ram S**  
 *Computer Science Student*  
